@@ -483,7 +483,7 @@ h1{
 
 ## OUTPUT:
 ![alt text](deepak/softapp/static/home.png)
-![alt text](deepak/softapp/static/people.png)
+![alt text](deepak/softapp/static/person1.png)
 ![alt text](deepak/softapp/static/product.png)
 ![alt text](deepak/softapp/static/contact.png)
 
